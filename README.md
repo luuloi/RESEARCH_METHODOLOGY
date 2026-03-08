@@ -9,7 +9,7 @@ This course is for the third year Biotech students at Dong Thap University
 - Research Methods vs. Methodology: Differentiating between the techniques used for conducting research and the logic behind the methods.
 - Research Process: Overview of the steps involved in a research study and criteria for "good" research.
 ###
-## Module 2: Advanced Literature Review & Synthesis with AI Workflow [Loi]
+## Module 2: Advanced Literature Review & Synthesis with AI Workflow [Hung]
 - Literature Survey Principles: Reviewing concepts, theories, and empirical findings.
 - Phase 1 of Literature Survey: Traditional bibliographic search vs. Perplexity AI.
     + Using Perplexity (Academic Mode): Mapping the scholarly landscape, identifying "seminal" authors, and generating cited overviews of a topic.
@@ -61,7 +61,7 @@ This course is for the third year Biotech students at Dong Thap University
 - Non-parametric Tests: Distribution-free tests used when assumptions of normality are not met.
 - Multivariate Analysis: Growth and application of multivariate techniques, including Factor Analysis and Path Analysis.
 ###
-## Module 9: Interpretation, Reporting, and AI Applications [Loi]
+## Module 9: Interpretation, Reporting, and AI Applications [Duy]
 - Interpretation and Report Writing: Techniques of interpretation and different steps in writing a final research report.
 - Layout of the Research Report: Preliminary pages, main text (Introduction, Results, Implications), and end matter.
 - Role of AI in Research: Introduction to AI and its specific applications for researchers.
