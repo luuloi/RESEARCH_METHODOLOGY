@@ -9,7 +9,7 @@ This course is for the third year Biotech students at Dong Thap University
 - Research Methods vs. Methodology: Differentiating between the techniques used for conducting research and the logic behind the methods.
 - Research Process: Overview of the steps involved in a research study and criteria for "good" research.
 ###
-## Module 2: Advanced Literature Review & Synthesis with AI Workflow [Dan]
+## Module 2: Advanced Literature Review & Synthesis with AI Workflow [Loi]
 - Literature Survey Principles: Reviewing concepts, theories, and empirical findings.
 - Phase 1 of Literature Survey: Traditional bibliographic search vs. Perplexity AI.
     + Using Perplexity (Academic Mode): Mapping the scholarly landscape, identifying "seminal" authors, and generating cited overviews of a topic.
