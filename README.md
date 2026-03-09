@@ -2,14 +2,14 @@
 This course is for the third year Biotech students at Dong Thap University
 ### Course Objective: To enable students to develop appropriate research methodologies for their studies and to familiarize them with the art of utilizing various research methods and techniques.
 ###
-## Module 1: Introduction to Research Methodology [Loi]
+## Module 1: Introduction to Research Methodology [Loi] - 17+18/03/2026, Online
 - Meaning and Objectives of Research: Understanding research as a scientific and systematic search for knowledge.
 - Motivation and Types of Research: Exploring different categories such as Descriptive vs. Analytical, Applied vs. Fundamental, Quantitative vs. Qualitative, and Conceptual vs. Empirical.
 - Research Approaches: Quantitative (inferential, experimental, simulation) and Qualitative approaches.
 - Research Methods vs. Methodology: Differentiating between the techniques used for conducting research and the logic behind the methods.
 - Research Process: Overview of the steps involved in a research study and criteria for "good" research.
 ###
-## Module 2: Advanced Literature Review & Synthesis with AI Workflow [Hung]
+## Module 2: Advanced Literature Review & Synthesis with AI Workflow [Hung] - 21+21/03/2026, Onsite
 - Literature Survey Principles: Reviewing concepts, theories, and empirical findings.
 - Phase 1 of Literature Survey: Traditional bibliographic search vs. Perplexity AI.
     + Using Perplexity (Academic Mode): Mapping the scholarly landscape, identifying "seminal" authors, and generating cited overviews of a topic.
@@ -22,20 +22,20 @@ This course is for the third year Biotech students at Dong Thap University
     + Using Scite to see if a specific paper's findings have been supported, mentioned, or disputed by subsequent studies.
     + Using Elicit for automated data extraction (e.g., comparing sample sizes or effect sizes across a research table).
 ###
-## Module 3: Defining Problems and Research Design [Loi]
+## Module 3: Defining Problems and Research Design [Loi] - 22+22/03/2026, Onsite
 - Defining the Research Problem: Selection of the problem, necessity of definition, and the techniques involved.
 - Meaning and Need for Research Design: Understanding the blueprint for data collection and analysis.
 - Features of a Good Design: Identifying characteristics that make a design effective.
 - Types of Research Designs: Exploratory, descriptive, diagnostic, and hypothesis-testing research designs.
 - Experimental Designs: Basic principles and types of experimental designs (e.g., Randomized Block, Latin Square, Factorial designs).
 ###
-## Module 4: Sampling and Measurement [Dan]
+## Module 4: Sampling and Measurement [Dan] - 24+25/03/2026, Online
 - Sampling Design: Census vs. Sample surveys, steps in sampling, and characteristics of a good sample design.
 - Types of Sampling: Probability (Random, Stratified, Cluster, Multi-stage) and Non-probability (Quota, Purposive) sampling techniques.
 - Measurement in Research: Different measurement scales (Nominal, Ordinal, Interval, Ratio) and sources of error in measurement.
 - Scaling Techniques: Developing measurement tools, scale classification, and construction techniques (e.g., Likert, Thurstone-type, Scalogram).
 ###
-## Module 5: Methods of Data Collection [Hung]
+## Module 5: Methods of Data Collection [Hung] - 28+28/03/2026, Onsite
 - Primary Data Collection:Observation
 - Method: Structured and unstructured observation.
 - Interview Method: Personal, focused, and group interviews.
@@ -43,30 +43,30 @@ This course is for the third year Biotech students at Dong Thap University
 - Secondary Data Collection: Selection of appropriate secondary sources and evaluation of their reliability.
 - Case Study Method: Characteristics and applications of intensive investigations into single units.
 ###
-## Module 6: Processing and Analysis of Data [Hung]
+## Module 6: Processing and Analysis of Data [Hung] - 29+29/03/2026, Onsite 
 - Processing Operations: Editing, coding, classification, and tabulation of data.
 - Statistical Analysis: * Measures of Central Tendency (Mean, Median, Mode) and Dispersion (Standard Deviation).
 - Measures of Relationship: Correlation and Regression analysis.
 - Time Series Analysis and Index Numbers: Measuring economic phenomena and long-term trends.
 ###
-## Module 7: Sampling Theory and Hypothesis Testing (Parametric) [Dan]
+## Module 7: Sampling Theory and Hypothesis Testing (Parametric) [Dan] - 31/03/2026 + 01/04/2026, Online
 - Sampling Fundamentals: Sampling distributions, Central Limit Theorem, and standard error.
 - Theory of Estimation: Estimating population mean and proportion, and determining sample size.
 - Testing of Hypotheses: Basic concepts, procedure, and flow diagrams for testing.
 - Parametric Tests: Hypothesis testing for means, proportions, variances, and correlation coefficients (z-test, t-test, F-test).
 ###
-## Module 8: Advanced Statistical Techniques [Dan]
+## Module 8: Advanced Statistical Techniques [Dan] - 04+04/04/2026, Onsite 
 - Chi-square Test: Application as a test for comparing variance and as a non-parametric test.
 - ANOVA and ANOCOVA: Techniques for analysis of variance and covariance across different groups.
 - Non-parametric Tests: Distribution-free tests used when assumptions of normality are not met.
 - Multivariate Analysis: Growth and application of multivariate techniques, including Factor Analysis and Path Analysis.
 ###
-## Module 9: Interpretation, Reporting, and AI Applications [Duy]
+## Module 9: Interpretation, Reporting, and AI Applications [Duy] - 05+05/04/2026, Onsite 
 - Interpretation and Report Writing: Techniques of interpretation and different steps in writing a final research report.
 - Layout of the Research Report: Preliminary pages, main text (Introduction, Results, Implications), and end matter.
 - Role of AI in Research: Introduction to AI and its specific applications for researchers.
 ###
-## Module 10: The Research Proposal – Blueprint for Inquiry [Duy]
+## Module 10: The Research Proposal – Blueprint for Inquiry [Duy] - 07+08+11+11/04/2026, Online
 Course Objective: To guide students through the formal process of drafting, refining, and defending a research proposal that is both scientifically rigorous and practically feasible.
 ### 1. The Anatomy of a Research Proposal
 - The Title: Crafting a concise, descriptive, and professional title that reflects the variables and scope.
