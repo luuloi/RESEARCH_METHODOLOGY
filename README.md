@@ -1,6 +1,6 @@
 # RESEARCH METHODOLOGY
-This course is for the third year Biotech students at Dong Thap University
-Time for each Module including lecture, practice and quiz: 4 hours
+#### This course is for the third year Biotech students at Dong Thap University
+#### Time for each Module including lecture, practice and quiz: 4 hours
 
 ### Course Objective: To enable students to develop appropriate research methodologies for their studies and to familiarize them with the art of utilizing various research methods and techniques.
 ###
