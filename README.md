@@ -37,7 +37,7 @@
 - Scaling Techniques: Developing measurement tools, scale classification, and construction techniques (e.g., Likert, Thurstone-type, Scalogram).
 ###
 ## Module 05: Methods of Data Collection [Hung] - 28+28/03/2026, Onsite
-- Primary Data Collection:Observation
+- Primary Data Collection: Observation from experiment.
 - Method: Structured and unstructured observation.
 - Interview Method: Personal, focused, and group interviews.
 - Questionnaires and Schedules: Guidelines for construction and differences between the two.
