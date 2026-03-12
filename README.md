@@ -46,7 +46,7 @@
 ###
 ## Module 06: Processing and Analysis of Data [Hung] - 29+29/03/2026, Onsite 
 - Processing Operations: Editing, coding, classification, and tabulation of data.
-- Statistical Analysis: * Measures of Central Tendency (Mean, Median, Mode) and Dispersion (Standard Deviation).
+- Statistical Analysis: Measures of Central Tendency (Mean, Median, Mode) and Dispersion (Standard Deviation).
 - Measures of Relationship: Correlation and Regression analysis.
 - Time Series Analysis and Index Numbers: Measuring economic phenomena and long-term trends.
 ###
