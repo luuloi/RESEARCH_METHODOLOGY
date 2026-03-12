@@ -1,5 +1,7 @@
 # RESEARCH METHODOLOGY
 This course is for the third year Biotech students at Dong Thap University
+Time for each Module including lecture, practice and quiz: 4 hours
+
 ### Course Objective: To enable students to develop appropriate research methodologies for their studies and to familiarize them with the art of utilizing various research methods and techniques.
 ###
 ## Module 01: Introduction to Research Methodology [Loi] - 17+18/03/2026, Online
@@ -9,7 +11,7 @@ This course is for the third year Biotech students at Dong Thap University
 - Research Methods vs. Methodology: Differentiating between the techniques used for conducting research and the logic behind the methods.
 - Research Process: Overview of the steps involved in a research study and criteria for "good" research.
 ###
-## Module 02: Advanced Literature Review & Synthesis with AI Workflow [Hung] - 21+21/03/2026, Onsite
+## Module 02: Advanced Literature Review & Synthesis with AI Workflow [Dinh] - 21+21/03/2026, Onsite
 - Literature Survey Principles: Reviewing concepts, theories, and empirical findings.
 - Phase 1 of Literature Survey: Traditional bibliographic search vs. Perplexity AI.
     + Using Perplexity (Academic Mode): Mapping the scholarly landscape, identifying "seminal" authors, and generating cited overviews of a topic.
