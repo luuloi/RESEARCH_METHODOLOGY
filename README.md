@@ -4,6 +4,7 @@
 #### - Course Objective: To enable students to develop appropriate research methodologies for their studies and to familiarize them with the art of utilizing various research methods and techniques.
 ###
 ## Module 01: Introduction to Research Methodology [Loi] - 17+18/03/2026, Online
+[PDF](Module_01/Lecture_01.pdf)
 - Meaning and Objectives of Research: Understanding research as a scientific and systematic search for knowledge.
 - Motivation and Types of Research: Exploring different categories such as Descriptive vs. Analytical, Applied vs. Fundamental, Quantitative vs. Qualitative, and Conceptual vs. Empirical.
 - Research Approaches: Quantitative (inferential, experimental, simulation) and Qualitative approaches.
