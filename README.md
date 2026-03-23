@@ -25,6 +25,7 @@
     + Using Elicit for automated data extraction (e.g., comparing sample sizes or effect sizes across a research table).
 ###
 ## Module 03: Defining Problems and Research Design [Loi] - 22+22/03/2026, Onsite
+[PDF = Lecture + Practice + Quizzes](Module_03/Lecture_03.pdf)
 - Defining the Research Problem: Selection of the problem, necessity of definition, and the techniques involved.
 - Meaning and Need for Research Design: Understanding the blueprint for data collection and analysis.
 - Features of a Good Design: Identifying characteristics that make a design effective.
