@@ -12,6 +12,8 @@
 - Research Process: Overview of the steps involved in a research study and criteria for "good" research.
 ###
 ## Module 02: Advanced Literature Review & Synthesis with AI Workflow [Dinh] - 21+21/03/2026, Onsite
+[Quiz](https://forms.office.com/r/YjBfw3UWqF) \
+[Lecture + Practice](Module_02/Lecture_02.pdf)
 - Literature Survey Principles: Reviewing concepts, theories, and empirical findings.
 - Phase 1 of Literature Survey: Traditional bibliographic search vs. Perplexity AI.
     + Using Perplexity (Academic Mode): Mapping the scholarly landscape, identifying "seminal" authors, and generating cited overviews of a topic.
