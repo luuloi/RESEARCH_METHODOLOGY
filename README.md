@@ -98,3 +98,11 @@ Course Objective: To guide students through the formal process of drafting, refi
 - Prompt: "Act as a skeptical thesis committee member. Read my research objectives and find three logical flaws or weaknesses I might face during the defense."
 - Presentation Skills: Creating a high-impact slide deck that summarizes the proposal effectively.
 ###
+## Exam:
+- Mid-term Exam:
+  + Date: 21, 22, 28, 29/4/2026 at 18-21PM, Online
+  + Presenting your research proposal with at least 1 slide and max 6 slides in 5 minutes
+- End-term Exam:
+  + Date: 03/5/2026 before 4PM
+  + Submitting your research proposal at least 10 pages and max 15 pages to Dr. Uyen Thanh
+###
