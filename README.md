@@ -35,6 +35,8 @@
 - Experimental Designs: Basic principles and types of experimental designs (e.g., Randomized Block, Latin Square, Factorial designs).
 ###
 ## Module 04: Sampling and Measurement [Dan] - 24+25/03/2026, Online
+[PDF](Module_04/Lecture_04.pdf)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NXkn_dCJ2kkDaDuOXYR37HIzQC1RTCgg#scrollTo=TDKBJs8LyZCb)
 - Sampling Design: Census vs. Sample surveys, steps in sampling, and characteristics of a good sample design.
 - Types of Sampling: Probability (Random, Stratified, Cluster, Multi-stage) and Non-probability (Quota, Purposive) sampling techniques.
 - Measurement in Research: Different measurement scales (Nominal, Ordinal, Interval, Ratio) and sources of error in measurement.
