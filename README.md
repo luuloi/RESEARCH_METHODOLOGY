@@ -35,8 +35,8 @@
 - Experimental Designs: Basic principles and types of experimental designs (e.g., Randomized Block, Latin Square, Factorial designs).
 ###
 ## Module 04: Sampling and Measurement [Dan] - 24+25/03/2026, Online
-[PDF](Module_04/Lecture_04.pdf)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NXkn_dCJ2kkDaDuOXYR37HIzQC1RTCgg#scrollTo=TDKBJs8LyZCb)
++ [PDF](Module_04/Lecture_04.pdf)
++ [Practice] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NXkn_dCJ2kkDaDuOXYR37HIzQC1RTCgg#scrollTo=TDKBJs8LyZCb)
 - Sampling Design: Census vs. Sample surveys, steps in sampling, and characteristics of a good sample design.
 - Types of Sampling: Probability (Random, Stratified, Cluster, Multi-stage) and Non-probability (Quota, Purposive) sampling techniques.
 - Measurement in Research: Different measurement scales (Nominal, Ordinal, Interval, Ratio) and sources of error in measurement.
@@ -68,7 +68,7 @@
 - Non-parametric Tests: Distribution-free tests used when assumptions of normality are not met.
 - Multivariate Analysis: Growth and application of multivariate techniques, including Factor Analysis and Path Analysis.
 ###
-## Module 09: Interpretation, Reporting, and AI Applications [Duy] - 05+05/04/2026, Onsite 
+## Module 09: Interpretation, Reporting, and AI Applications [Dinh] - 05+05/04/2026, Onsite 
 - Interpretation and Report Writing: Techniques of interpretation and different steps in writing a final research report.
 - Layout of the Research Report: Preliminary pages, main text (Introduction, Results, Implications), and end matter.
 - Role of AI in Research: Introduction to AI and its specific applications for researchers.
