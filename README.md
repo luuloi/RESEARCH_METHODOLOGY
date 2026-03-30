@@ -43,7 +43,7 @@
 - Scaling Techniques: Developing measurement tools, scale classification, and construction techniques (e.g., Likert, Thurstone-type, Scalogram).
 ###
 ## Module 05: Methods of Data Collection [Hung] - 28+28/03/2026, Onsite
-+ [PPT](Module_05/Buoi_5_DHDT.pptx)
++ [PDF](Module_05/Lecture_05.pdf)
 - Primary Data Collection: Observation from experiment.
 - Method: Structured and unstructured observation.
 - Interview Method: Personal, focused, and group interviews.
@@ -52,7 +52,7 @@
 - Case Study Method: Characteristics and applications of intensive investigations into single units.
 ###
 ## Module 06: Processing and Analysis of Data [Hung] - 29+29/03/2026, Onsite 
-+ [PPT](Module_06/Buoi_6_DHDT.pptx)
++ [PDF](Module_06/Lecture_06.pdf)
 - Processing Operations: Editing, coding, classification, and tabulation of data.
 - Statistical Analysis: Measures of Central Tendency (Mean, Median, Mode) and Dispersion (Standard Deviation).
 - Measures of Relationship: Correlation and Regression analysis.
