@@ -59,12 +59,13 @@
 - Time Series Analysis and Index Numbers: Measuring economic phenomena and long-term trends.
 ###
 ## Module 07: Sampling Theory and Hypothesis Testing (Parametric) [Dan] - 31/03/2026 + 01/04/2026, Online
++ [Google Colab] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ip6rDurg9LrSxQ1FxWUoUl3tq3YIJOHa#scrollTo=ZmEY33ScnM2K)
 - Sampling Fundamentals: Sampling distributions, Central Limit Theorem, and standard error.
 - Theory of Estimation: Estimating population mean and proportion, and determining sample size.
 - Testing of Hypotheses: Basic concepts, procedure, and flow diagrams for testing.
 - Parametric Tests: Hypothesis testing for means, proportions, variances, and correlation coefficients (z-test, t-test, F-test).
 ###
-## Module 08: Advanced Statistical Techniques [Dan] - 04+04/04/2026, Onsite 
+## Module 08: Advanced Statistical Techniques [Dan] - 04+04/04/2026, Onsite
 - Chi-square Test: Application as a test for comparing variance and as a non-parametric test.
 - ANOVA and ANOCOVA: Techniques for analysis of variance and covariance across different groups.
 - Non-parametric Tests: Distribution-free tests used when assumptions of normality are not met.
