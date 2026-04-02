@@ -4,7 +4,7 @@
 #### - Course Objective: To enable students to develop appropriate research methodologies for their studies and to familiarize them with the art of utilizing various research methods and techniques.
 ###
 ## Module 01: Introduction to Research Methodology [Loi] - 17+18/03/2026, Online
-[PDF](Module_01/Lecture_01.pdf)
+[Lecture](Module_01/Lecture_01.pdf)
 - Meaning and Objectives of Research: Understanding research as a scientific and systematic search for knowledge.
 - Motivation and Types of Research: Exploring different categories such as Descriptive vs. Analytical, Applied vs. Fundamental, Quantitative vs. Qualitative, and Conceptual vs. Empirical.
 - Research Approaches: Quantitative (inferential, experimental, simulation) and Qualitative approaches.
@@ -35,7 +35,7 @@
 - Experimental Designs: Basic principles and types of experimental designs (e.g., Randomized Block, Latin Square, Factorial designs).
 ###
 ## Module 04: Sampling and Measurement [Dan] - 24+25/03/2026, Online
-+ [PDF](Module_04/Lecture_04.pdf)
++ [Lecture](Module_04/Lecture_04.pdf)
 + [Practice] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NXkn_dCJ2kkDaDuOXYR37HIzQC1RTCgg#scrollTo=TDKBJs8LyZCb)
 - Sampling Design: Census vs. Sample surveys, steps in sampling, and characteristics of a good sample design.
 - Types of Sampling: Probability (Random, Stratified, Cluster, Multi-stage) and Non-probability (Quota, Purposive) sampling techniques.
@@ -43,7 +43,7 @@
 - Scaling Techniques: Developing measurement tools, scale classification, and construction techniques (e.g., Likert, Thurstone-type, Scalogram).
 ###
 ## Module 05: Methods of Data Collection [Hung] - 28+28/03/2026, Onsite
-+ [PDF](Module_05/Lecture_05.pdf)
++ [Lecture](Module_05/Lecture_05.pdf)
 - Primary Data Collection: Observation from experiment.
 - Method: Structured and unstructured observation.
 - Interview Method: Personal, focused, and group interviews.
@@ -52,14 +52,14 @@
 - Case Study Method: Characteristics and applications of intensive investigations into single units.
 ###
 ## Module 06: Processing and Analysis of Data [Hung] - 29+29/03/2026, Onsite 
-+ [PDF](Module_06/Lecture_06.pdf)
++ [Lecture](Module_06/Lecture_06.pdf)
 - Processing Operations: Editing, coding, classification, and tabulation of data.
 - Statistical Analysis: Measures of Central Tendency (Mean, Median, Mode) and Dispersion (Standard Deviation).
 - Measures of Relationship: Correlation and Regression analysis.
 - Time Series Analysis and Index Numbers: Measuring economic phenomena and long-term trends.
 ###
 ## Module 07: Sampling Theory and Hypothesis Testing (Parametric) [Dan] - 31/03/2026 + 01/04/2026, Online
-+ [Google Colab] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ip6rDurg9LrSxQ1FxWUoUl3tq3YIJOHa#scrollTo=ZmEY33ScnM2K)
++ [Practice] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ip6rDurg9LrSxQ1FxWUoUl3tq3YIJOHa#scrollTo=ZmEY33ScnM2K)
 - Sampling Fundamentals: Sampling distributions, Central Limit Theorem, and standard error.
 - Theory of Estimation: Estimating population mean and proportion, and determining sample size.
 - Testing of Hypotheses: Basic concepts, procedure, and flow diagrams for testing.
