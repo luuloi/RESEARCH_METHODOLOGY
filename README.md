@@ -59,7 +59,9 @@
 - Time Series Analysis and Index Numbers: Measuring economic phenomena and long-term trends.
 ###
 ## Module 07: Sampling Theory and Hypothesis Testing (Parametric) [Dan] - 31/03/2026 + 01/04/2026, Online
++ [Lecture](Module_07/Lecture_07.pdf)
 + [Practice] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ip6rDurg9LrSxQ1FxWUoUl3tq3YIJOHa#scrollTo=ZmEY33ScnM2K)
++ [Data](Module_07/Heart_Data.csv)
 - Sampling Fundamentals: Sampling distributions, Central Limit Theorem, and standard error.
 - Theory of Estimation: Estimating population mean and proportion, and determining sample size.
 - Testing of Hypotheses: Basic concepts, procedure, and flow diagrams for testing.
