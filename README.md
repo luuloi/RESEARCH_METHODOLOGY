@@ -74,6 +74,9 @@
 - Multivariate Analysis: Growth and application of multivariate techniques, including Factor Analysis and Path Analysis.
 ###
 ## Module 09: Interpretation, Reporting, and AI Applications [Dinh] - 05+05/04/2026, Onsite 
++ [PDF](Module_09/Lecture_09.pdf)
++ [PPT](Module_09/Lecture_09.pptx)
++ [Quiz](https://forms.office.com/r/zTrCP23xFd)
 - Interpretation and Report Writing: Techniques of interpretation and different steps in writing a final research report.
 - Layout of the Research Report: Preliminary pages, main text (Introduction, Results, Implications), and end matter.
 - Role of AI in Research: Introduction to AI and its specific applications for researchers.
