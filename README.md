@@ -36,7 +36,7 @@
 ###
 ## Module 04: Sampling and Measurement [Dan] - 24+25/03/2026, Online
 + [Lecture](Module_04/Lecture_04.pdf)
-+ [Practice] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NXkn_dCJ2kkDaDuOXYR37HIzQC1RTCgg#scrollTo=TDKBJs8LyZCb)
++ [Practice] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NXkn_dCJ2kkDaDuOXYR37HIzQC1RTCgg?usp=drive_link)
 - Sampling Design: Census vs. Sample surveys, steps in sampling, and characteristics of a good sample design.
 - Types of Sampling: Probability (Random, Stratified, Cluster, Multi-stage) and Non-probability (Quota, Purposive) sampling techniques.
 - Measurement in Research: Different measurement scales (Nominal, Ordinal, Interval, Ratio) and sources of error in measurement.
@@ -60,7 +60,7 @@
 ###
 ## Module 07: Sampling Theory and Hypothesis Testing (Parametric) [Dan] - 31/03/2026 + 01/04/2026, Online
 + [Lecture](Module_07/Lecture_07.pdf)
-+ [Practice] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ip6rDurg9LrSxQ1FxWUoUl3tq3YIJOHa#scrollTo=ZmEY33ScnM2K)
++ [Practice] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ECitKDS_YGow_rmLBxLbd38J_980qiHc?usp=drive_link)
 + [Data](Module_07/Heart_Data.csv)
 - Sampling Fundamentals: Sampling distributions, Central Limit Theorem, and standard error.
 - Theory of Estimation: Estimating population mean and proportion, and determining sample size.
@@ -68,6 +68,9 @@
 - Parametric Tests: Hypothesis testing for means, proportions, variances, and correlation coefficients (z-test, t-test, F-test).
 ###
 ## Module 08: Advanced Statistical Techniques [Dan] - 04+04/04/2026, Onsite
++ [Lecture](Module_08/Lecture_08.pdf)
++ [Practice] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yMTwFJMGxzhZZX5-MDB-wqMXIpvJy4CI?usp=sharing)
++ [Data](Module_07/Heart_Data.csv)
 - Chi-square Test: Application as a test for comparing variance and as a non-parametric test.
 - ANOVA and ANOCOVA: Techniques for analysis of variance and covariance across different groups.
 - Non-parametric Tests: Distribution-free tests used when assumptions of normality are not met.
