@@ -97,11 +97,12 @@ Course Objective: To guide students through the formal process of drafting, refi
 - Data Collection Tools: Describing the instruments (Questionnaires, Interview schedules, Observation checklists) and their reliability/validity.
 - Data Analysis Plan: Pre-determining which statistical tests (t-test, ANOVA, Chi-square) will be used to test each hypothesis.
 ### 3. AI-Enhanced Proposal Development (The Digital Workflow)
-- Step 1: Structural Drafting with Perplexity: * Task: Use Perplexity’s "Writing" or "Academic" mode to generate a standard outline for a proposal in your specific field (e.g., "Outline a PhD research proposal for a study on consumer behavior in e-commerce").
+- Step 1: Structural Drafting with Perplexity:
+    + Task: Use Perplexity’s "Writing" or "Academic" mode to generate a standard outline for a proposal in your specific field (e.g., "Outline a PhD research proposal for a study on consumer behavior in e-commerce").
 - Step 2: Synthesizing the "Literature Review" Section with NotebookLM:
-- Task: Upload the core 10-15 papers found in Module 3. Use the "Notebook Guide" to generate a summary that connects these papers directly to your specific research problem, ensuring no "hallucinations" by relying only on your uploaded sources.
+    + Task: Upload the core 10-15 papers found in Module 3. Use the "Notebook Guide" to generate a summary that connects these papers directly to your specific research problem, ensuring no "hallucinations" by relying only on your uploaded sources.
 - Step 3: Feasibility and Timeline with AI:
-- Task: Use AI to generate a Gantt Chart or a 12-month research timeline. Ask the AI to identify potential "bottlenecks" in your proposed methodology (e.g., "What are the risks of using a purposive sample for this study?").
+    + Task: Use AI to generate a Gantt Chart or a 12-month research timeline. Ask the AI to identify potential "bottlenecks" in your proposed methodology (e.g., "What are the risks of using a purposive sample for this study?").
 ### 4. Administrative and Ethical Considerations
 - The Budget: Estimating costs for data collection, software, and travel.
 - Ethical Clearance: Addressing participant consent, data privacy, and the ethical use of AI in data generation.
