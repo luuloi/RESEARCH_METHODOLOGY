@@ -85,7 +85,8 @@
 - Role of AI in Research: Introduction to AI and its specific applications for researchers.
 ###
 ## Module 10: The Research Proposal – Blueprint for Inquiry [Duy] - 07+08+11+11/04/2026, Online
-[Lecture](Module_10/Lecture_10.pdf)
++ [Lecture](Module_10/Lecture_10.pdf)
+
 Course Objective: To guide students through the formal process of drafting, refining, and defending a research proposal that is both scientifically rigorous and practically feasible.
 ### 1. The Anatomy of a Research Proposal
 - The Title: Crafting a concise, descriptive, and professional title that reflects the variables and scope.
